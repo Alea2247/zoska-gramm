@@ -11,6 +11,7 @@ import CardMedia from "@mui/material/CardMedia";
 import CardContent from "@mui/material/CardContent";
 import Avatar from "@mui/material/Avatar";
 
+
 export const metadata = { title: "Príspevky | SnapZoška" };
 
 export default async function FeedPage() {
